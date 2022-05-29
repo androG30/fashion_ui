@@ -1,4 +1,6 @@
 # outfiter_fashion_ui
+![ui_challenge](https://user-images.githubusercontent.com/81309619/170861290-b366b200-45c8-49aa-bce3-c1692cc1eac6.png)
+
 <table>
   <tr>
      <td>Splash screen</td>
