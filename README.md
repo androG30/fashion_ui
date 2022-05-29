@@ -1,9 +1,11 @@
 # outfiter_fashion_ui
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>UI challenge</td>
-     <td>Fashion UI</td>
+     <td>Splash screen</td>
+     <td>Intro screen</td>
+     <td>Filter screen</td>
+     <td>Filter submission</td>
+     <td>Checkout screen</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/81309619/170860308-bb7908cb-1fc1-4d35-a2d1-bd14cd998331.jpg" width="200" height="400"></td>
