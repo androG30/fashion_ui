@@ -1,6 +1,7 @@
 # outfiter_fashion_ui
 ![ui_challenge](https://user-images.githubusercontent.com/81309619/170861290-b366b200-45c8-49aa-bce3-c1692cc1eac6.png)
 
+<div style="overflow-x:auto;">
 <table>
   <tr>
      <td>Splash screen</td>
@@ -33,3 +34,4 @@
     <td bgcolor="white"><img src="https://user-images.githubusercontent.com/81309619/170860317-442cad77-49d7-4b16-9de4-dd33b717520c.jpg" width="400" height="780"></td>
   </tr>
  </table>
+ </div>
