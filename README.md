@@ -26,6 +26,6 @@
      <td>Checkout screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/81309619/170860317-442cad77-49d7-4b16-9de4-dd33b717520c.jpg" width="640" height="980"></td>
+    <td><img src="https://user-images.githubusercontent.com/81309619/170860317-442cad77-49d7-4b16-9de4-dd33b717520c.jpg" width="540" height="880"></td>
   </tr>
  </table>
